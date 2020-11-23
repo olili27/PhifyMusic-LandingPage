@@ -284,23 +284,17 @@ p small{
   color:#ccc;
 }
 
-.logo{
-  height:20%;
-  width:20%;
-  padding:1px;
-}
-
-.fb-ig{
-  width:11%;
-  height:10%;
-}
-
 #social-media a{
   margin-right:2rem;
 }
 
+.fab{
+  color:#ddd;
+  transform: scale(1.2);
+}
+
 #social-media small{
-  font-size:15px;
+  font-size:13px;
   color:#ddd;
 }
 
