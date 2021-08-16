@@ -22,7 +22,6 @@ header{
   position:fixed;
   display:flex;
   top:0;
-  over-flow:hidden;
   margin-bottom:6rem;
   background:#fff;
   height:4.8rem;
@@ -38,7 +37,7 @@ header{
   text-align:center;
   font-size:14px;
   color:#444;
-  font-wieght:bolder;
+  font-weight:bolder;
 }
 
 #nav-bar{
@@ -141,7 +140,6 @@ iframe{
   margin:1rem;
   margin-top:3rem;
   word-spacing:2px;
-  line-spacing:2px;
   color:#888;
 }
 
@@ -320,6 +318,7 @@ p small{
   #container{
   margin:0% 0% 0% 0%;
   min-width:95%;
+  }
 }
 /* media query at 1090px*/
 
